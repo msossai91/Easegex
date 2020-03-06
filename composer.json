@@ -1,6 +1,7 @@
 {
     "name": "msossai91/easegex",
     "license": "MIT",
+    "description": "A library to make regex easier to use",
     "authors": [
         {
             "name": "Matheus A Sossai",
