@@ -1,0 +1,16 @@
+{
+    "name": "msossai91/Easegex",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus A Sossai",
+            "email": "msossai91@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Msossai91\\Easegex\\": "src/"
+        }
+    }
+}
